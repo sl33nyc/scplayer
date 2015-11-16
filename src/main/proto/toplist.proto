@@ -1,0 +1,6 @@
+option java_package = "com.shuffle.scplayer.protobuf";
+
+message Toplist {
+    repeated string items = 0x1;
+}
+
